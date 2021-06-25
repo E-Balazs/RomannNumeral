@@ -1,0 +1,9 @@
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\bin\Debug\Rómaiváltó.exe.config
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\bin\Debug\Rómaiváltó.exe
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\bin\Debug\Rómaiváltó.pdb
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\obj\Debug\Rómaiváltó.csprojResolveAssemblyReference.cache
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\obj\Debug\Rómaiváltó.Form1.resources
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\obj\Debug\Rómaiváltó.Properties.Resources.resources
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\obj\Debug\Rómaiváltó.csproj.GenerateResource.Cache
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\obj\Debug\Rómaiváltó.exe
+c:\users\balázs\documents\visual studio 2015\Projects\Rómaiváltó\Rómaiváltó\obj\Debug\Rómaiváltó.pdb
